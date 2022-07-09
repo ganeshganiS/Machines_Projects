@@ -1,0 +1,2 @@
+# Machines_Projects
+The main objective of our Python Desktop Application Software is to provide a simple yet efficient machine independent programming model. The Application software will evaluate the supplied data provided by the user and displays the result in terms of values as well as performance characteristics. This GUI could be used in the form of Simulation for an Electrical Software Application. Project has been Designed and Developed by Using PYTHON for developing the Graphical User Interface (GUI)..
